@@ -1,0 +1,5 @@
+<speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="fr-FR">
+    <voice name="fr-FR-HenriNeural">
+        <prosody rate="0.9"><phoneme alphabet="x-sampa" ph="kavO~nu">Qu'avons-nous</phoneme> fait, pour mériter cela ?</prosody>
+    </voice>
+</speak>

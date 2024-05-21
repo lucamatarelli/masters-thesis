@@ -1,0 +1,7 @@
+<speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="fr-FR">
+    <voice name="fr-FR-HenriNeural">
+        <prosody rate="1.1">
+            <phoneme alphabet="x-sampa" ph="ptEt">Peut-être</phoneme> bien <phoneme alphabet="x-sampa" ph="s">ce</phoneme> que <phoneme alphabet="x-sampa" ph="t">tu</phoneme> <phoneme alphabet="x-sampa" ph="a">as</phoneme> affirmé c'est vrai, <phoneme alphabet="x-sampa" ph="m">mais</phoneme> enfin perso, vais <phoneme alphabet="x-sampa" ph="ZamE">jamais</phoneme> <phoneme alphabet="x-sampa" ph="Et">être</phoneme> convaincu.
+        </prosody>
+    </voice>
+</speak>

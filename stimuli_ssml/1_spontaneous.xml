@@ -1,0 +1,5 @@
+<speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="fr-FR">
+    <voice name="fr-FR-HenriNeural">
+        <prosody rate="0.8">Lui, <phoneme alphabet="x-sampa" ph="999999">euh</phoneme></prosody> <prosody rate="1.1"><phoneme alphabet="x-sampa" ph="S">je</phoneme> pense pas <phoneme alphabet="x-sampa" ph="ki">qu'il</phoneme> va <phoneme alphabet="x-sampa" ph="dZa">déjà</phoneme> <phoneme alphabet="x-sampa" ph="vniR">venir</phoneme> <phoneme alphabet="x-sampa" ph="dmE~">demain</phoneme> soir.</prosody>
+    </voice>
+</speak>

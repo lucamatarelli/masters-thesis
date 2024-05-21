@@ -1,0 +1,6 @@
+<speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="fr-FR">
+    <voice name="fr-FR-HenriNeural">
+        <prosody rate="0.9">Peut-être bien que ce que tu as <phoneme alphabet="x-sampa" ph="afffiRme">affirmé</phoneme>, cela est vrai, mais enfin, <phoneme alphabet="x-sampa" ph="pERsOnnnElll9mA~">personnellement</phoneme>, je <phoneme alphabet="x-sampa" ph="n9">ne</phoneme> serai <prosody rate="0.8" contour="(75%,+3st)(100%,-3st)"><phoneme alphabet="x-sampa" ph="ZaammmE">jamais</phoneme>
+        </prosody> convaincu.</prosody>
+    </voice>
+</speak>

@@ -1,0 +1,7 @@
+<speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="fr-FR">
+    <voice name="fr-FR-HenriNeural">
+        <prosody rate="0.9"><phoneme alphabet="x-sampa" ph="Et9vu">Êtes-vous</phoneme> les personnes qui avez voulu <prosody rate="0.8" contour="(40%,+5st) (100%,-5st)">
+            <phoneme alphabet="x-sampa" ph="REssstE">rester</phoneme>
+        </prosody> <phoneme alphabet="x-sampa" ph="Rimmmobil">immobiles</phoneme> ?</prosody>
+    </voice>
+</speak>

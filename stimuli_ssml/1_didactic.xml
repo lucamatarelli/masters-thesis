@@ -1,0 +1,5 @@
+<speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="fr-FR">
+    <voice name="fr-FR-HenriNeural">
+        <prosody rate="0.9">Je <phoneme alphabet="x-sampa" ph="n9">ne</phoneme> <phoneme alphabet="x-sampa" ph="pA~s9">pense</phoneme> pas <prosody rate="0.8" contour="(10%,+5st)">que</prosody><break time="300ms"/> il viendra déjà demain <phoneme alphabet="x-sampa" ph="swaaaR">soir</phoneme>.</prosody>
+    </voice>
+</speak>

@@ -1,0 +1,5 @@
+<speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="fr-FR">
+    <voice name="fr-FR-HenriNeural">
+        <prosody rate="1.1"><phoneme alphabet="x-sampa" ph="mE~nA~">Maintenant</phoneme>, faut <phoneme alphabet="x-sampa" ph="py">plus</phoneme> <phoneme alphabet="x-sampa" ph="atA~d">attendre</phoneme> <phoneme alphabet="x-sampa" ph="ot">autre</phoneme> chose de tes amis, <phoneme alphabet="x-sampa" ph="pas">parce</phoneme> <phoneme alphabet="x-sampa" ph="ki">qu'ils</phoneme> sont <phoneme alphabet="x-sampa" ph="penib">pénibles</phoneme> de <phoneme alphabet="x-sampa" ph="s">se</phoneme> <phoneme alphabet="x-sampa" ph="plE~d">plaindre</phoneme> toujours <phoneme alphabet="x-sampa" ph="d">de</phoneme> leurs <phoneme alphabet="x-sampa" ph="prOlEm">problèmes</phoneme>.</prosody>
+    </voice>
+</speak>

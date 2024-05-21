@@ -1,0 +1,5 @@
+<speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="fr-FR">
+    <voice name="fr-FR-HenriNeural">
+        <prosody rate="1.1"><phoneme alphabet="x-sampa" ph="sE">C'est</phoneme> essentiel qu'on s'interroge <prosody rate="0.8">sur <phoneme alphabet="x-sampa" ph="nOtR99999">notre</phoneme></prosody>... sur<phoneme alphabet="x-sampa" ph="nOt">notre</phoneme> rôle dans la société.</prosody>
+    </voice>
+</speak>

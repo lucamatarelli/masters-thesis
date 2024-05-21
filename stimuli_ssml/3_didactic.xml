@@ -1,0 +1,5 @@
+<speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="fr-FR">
+    <voice name="fr-FR-HenriNeural">
+        <prosody rate="0.9">Il <phoneme alphabet="x-sampa" ph="Et">est</phoneme><break time="150ms"/> <prosody rate="0.8" contour="(50%,+3st) (100%,-3st)"><phoneme alphabet="x-sampa" ph="EEsssA~sjEl">essentiel</phoneme></prosody> que nous nous <phoneme alphabet="x-sampa" ph="E~tERRROZijO~">interrogions</phoneme> sur notre <phoneme alphabet="x-sampa" ph="Roool9">rôle</phoneme> dans la société.</prosody>
+    </voice>
+</speak>

@@ -1,0 +1,5 @@
+<speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="fr-FR">
+    <voice name="fr-FR-HenriNeural">
+        <prosody rate="1.1">On a fait quoi <prosody rate="0.8"><phoneme alphabet="x-sampa" ph="puuR">pour</phoneme> <phoneme alphabet="x-sampa" ph="99999">euh</phoneme></prosody>... pour mériter ça, <prosody rate="1">nous</prosody> ?</prosody>
+    </voice>
+</speak>

@@ -1,0 +1,5 @@
+<speak version="1.0" xmlns="https://www.w3.org/2001/10/synthesis" xml:lang="fr-FR">
+    <voice name="fr-FR-HenriNeural">
+        <prosody rate="0.9">Maintenant, il ne faut <phoneme alphabet="x-sampa" ph="plyz">plus</phoneme><break time="100ms"/> <prosody rate="0.8" contour="(50%,+3st) (100%,-3st)"><phoneme alphabet="x-sampa" ph="aa.tA~A~.dR9">attendre</phoneme></prosody> autre <phoneme alphabet="x-sampa" ph="Soz9">chose</phoneme> de tes amis, <phoneme alphabet="x-sampa" ph="paRs9">parce</phoneme> que, ils sont pénibles de se <phoneme alphabet="x-sampa" ph="plE~E~E~dR9">plaindre</phoneme> toujours de leurs <phoneme alphabet="x-sampa" ph="pROblEEEm">problèmes</phoneme>.</prosody>
+    </voice>
+</speak>
